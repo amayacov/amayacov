@@ -1,0 +1,136 @@
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding:0;
+}
+
+#menu ul li{
+	float: left;
+}
+
+#menu  a{
+	font-family: "Adam";
+	font-weight:260;
+	color:#606060;
+	background-position: center;
+	font-size:500%;
+	display: block;
+	padding: 55;
+	padding-left: 150;
+	padding-right: 150;
+	text-decoration: none;
+}
+
+#menu{
+	background-image: linear-gradient(to right, #fff5e6 0%, #ffbe5f 100%);
+	width: 3118;
+	height: 200;
+	
+}
+
+
+
+
+
+
+header{
+	background-color: #ffffff;
+}
+
+p{
+	font-family: "Tanohe Sans";
+	font-size: 45;
+	color:#606060;
+	padding: 2;
+	padding-right: 3020;
+	padding-left: 120;
+	letter-spacing: 0;
+
+}
+
+h2{
+	font-family: "Raleway";
+	font-size: 260;
+	float: right;
+	padding: 2;
+	color:#606060;
+	font-weight: 110;
+	padding-left: 111;
+	height: 125;
+}
+
+h3{
+	font-family: "Raleway";
+	font-size: 110;
+	float: right;
+	padding: 2;
+	color:#606060;
+	font-weight: 110;
+	padding-right:2911;
+	height: 125;
+}
+
+footer{
+	background-color: #606060;
+	padding: 60;
+	height: 250;
+	width: 3000;
+}
+
+section{
+	background-color: #ffffff;
+	padding-bottom: 75;
+}
+
+td{
+	padding-right: 250;
+}
+
+
+
+
+
+
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+	font-family:"Tanohe Sans light";
+	 font-size:55px;
+	 margin-top:22px;
+}
+.formulario {
+    display:block;
+    margin:0 auto;
+    width:666px;
+    color: #666666;
+    font-family:"Tanohe Sans light";
+}
+form {
+    margin:0 auto;
+    width:400px;
+}
+ 
+input, textarea {
+    width:1300px;
+    height:66px;
+    background:#efeae6;
+    border:0px solid #f6f6f6;
+    padding:10px;
+    margin-top:22px;
+    font-size:55px;
+    color:#666666;
+}
+ 
+textarea {
+    height:444px;
+}
+ 
+#submit {
+    width:222px;
+    height:100px;
+    border:none;
+    margin-top:55px;
+    cursor:all-scroll;
+}

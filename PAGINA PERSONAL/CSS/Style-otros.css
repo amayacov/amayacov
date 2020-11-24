@@ -1,0 +1,92 @@
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding:0;
+}
+
+#menu ul li{
+	float: left;
+}
+
+#menu  a{
+	font-family: "Adam";
+	font-weight:430;
+	color:#606060;
+	background-position: center;
+	font-size:500%;
+	display: block;
+	padding: 55;
+	padding-left: 150;
+	padding-right: 150;
+	text-decoration: none;
+}
+
+#menu{
+	background-image: linear-gradient(to right, #e5ded6 0%, #fff5e6 100%);
+	width: 3118;
+	height: 200;
+}
+
+
+header{
+	background-color: #ffffff;
+}
+
+p{
+	font-family: "Tanohe Sans light";
+	font-size: 99;
+	color:#606060;
+	
+	letter-spacing: 0;
+
+}
+
+h2{
+	font-family: "Raleway";
+	font-size: 260;
+	float: right;
+	padding: 2;
+	color:#606060;
+	font-weight: 10;
+	padding-left: 111;
+	height: 125;
+}
+
+h3{
+	font-family: "Tanohe Sans";
+	font-size: 130;
+	float: right;
+	padding: 2;
+	color:#606060;
+	font-weight: 10;
+	padding-left: 111;
+	height: 125;
+}
+
+h4{
+	font-family: "adam";
+	font-size: 99;
+	color:#ffffff;
+	
+	letter-spacing: 0;
+
+}
+
+
+footer{
+	background-color: #606060;
+	padding: 60;
+	height: 250;
+	width: 3000;
+}
+
+section{
+	background-color: #ffffff;
+	padding-bottom: 75;
+}
+
+
+td{
+	padding-left: 150;
+	padding-bottom: 150;
+}

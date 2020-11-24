@@ -1,0 +1,74 @@
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding:0;
+}
+
+#menu ul li{
+	float: left;
+}
+
+#menu  a{
+	font-family: "Adam";
+	font-weight:260;
+	color:#ffffff;
+	background-position: center;
+	font-size:500%;
+	display: block;
+	padding: 55;
+	padding-left: 150;
+	padding-right: 150;
+	text-decoration: none;
+}
+
+#menu{
+	background-image: linear-gradient(to right, #d1c6bd 0%, #606060 100%);
+	width: 3118;
+	height: 200;
+}
+
+
+header{
+	background-color: #ffffff;
+}
+
+p{
+	font-family: "Tanohe Sans";
+	font-size: 45;
+	color:#606060;
+	padding: 2;
+	padding-right: 3020;
+	padding-left: 120;
+	letter-spacing: 0;
+
+}
+
+h2{
+	font-family: "Raleway";
+	font-size: 260;
+	float: right;
+	padding: 2;
+	color:#606060;
+	font-weight: 10;
+	padding-left: 111;
+	height: 125;
+}
+
+footer{
+	background-color: #606060;
+	padding: 60;
+	height: 250;
+	width: 3000;
+}
+
+section{
+	background-color: #ffffff;
+	padding-bottom: 75;
+}
+
+
+td{
+	padding-left: 150;
+	padding-bottom: 150;
+}
+
